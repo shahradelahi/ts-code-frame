@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/code-frame",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Visual terminal code frame pointer generator",
   "keywords": [
     "code-frame",
